@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "659910513148",
+    "project_id": "freshify-app-5f44c",
+    "storage_bucket": "freshify-app-5f44c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659910513148:android:4b758ddb08d4b547f06279",
+        "android_client_info": {
+          "package_name": "com.example.freshify_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL52xWVE1HLzRH482j3YQKlFKALJwrsG8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

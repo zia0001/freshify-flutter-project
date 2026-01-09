@@ -1,0 +1,136 @@
+[
+  {
+    "id": "p1",
+    "name": "apple",
+    "category": "Fruits",
+    "price": 2.5,
+    "image": "assets/images/apple.jpg"
+  },
+  {
+    "id": "p2",
+    "name": "banana",
+    "category": "Fruits",
+    "price": 1.2,
+    "image": "assets/images/banana.jpg"
+  },
+  {
+    "id": "p3",
+    "name": "orange",
+    "category": "Fruits",
+    "price": 1.8,
+    "image": "assets/images/orange.jpg"
+  },
+  {
+    "id": "p4",
+    "name": "tomato",
+    "category": "Vegetables",
+    "price": 1.5,
+    "image": "assets/images/tomato.jpg"
+  },
+  {
+    "id": "p5",
+    "name": "carrot",
+    "category": "Vegetables",
+    "price": 1.0,
+    "image": "assets/images/carrot.jpg"
+  },
+  {
+    "id": "p6",
+    "name": "potato",
+    "category": "Vegetables",
+    "price": 0.8,
+    "image": "assets/images/potato.jpg"
+  },
+  {
+    "id": "p7",
+    "name": "milk",
+    "category": "Dairy",
+    "price": 3.0,
+    "image": "assets/images/milk.jpg"
+  },
+  {
+    "id": "p8",
+    "name": "cheese",
+    "category": "Dairy",
+    "price": 4.5,
+    "image": "assets/images/cheese.jpg"
+  },
+  {
+    "id": "p9",
+    "name": "yogurt",
+    "category": "Dairy",
+    "price": 2.0,
+    "image": "assets/images/yogurt.jpg"
+  },
+  
+  {
+    "id": "p11",
+    "name": "culiflower",
+    "category": "Vegetables",
+    "price": 3.0,
+    "image": "assets/images/culiflower.jpg"
+  },
+  {
+    "id": "p12",
+    "name": "chilli",
+    "category": "Vegetables",
+    "price": 2.8,
+    "image": "assets/images/chilli.jpg"
+  },
+  {
+    "id": "p13",
+    "name": "watermelon",
+    "category": "Fruits",
+    "price": 7.5,
+    "image": "assets/images/watermelon.jpg"
+  },
+  {
+    "id": "p14",
+    "name": "butter",
+    "category": "Dairy",
+    "price": 6.0,
+    "image": "assets/images/butter.jpg"
+  },
+  {
+    "id": "p15",
+    "name": "bread",
+    "category": "Dairy",
+    "price": 8.0,
+    "image": "assets/images/bread.jpg"
+  },
+  {
+    "id": "p15",
+    "name": "grapes",
+    "category": "Fruits",
+    "price": 8.0,
+    "image": "assets/images/grapes.jpg"
+  },
+  {
+    "id": "p16",
+    "name": "avocado",
+    "category": "Fruits",
+    "price": 8.0,
+    "image": "assets/images/avocado.jpg"
+  },
+  {
+    "id": "p17",
+    "name": "cucumber",
+    "category": "Vegetables",
+    "price": 8.0,
+    "image": "assets/images/cucumber.jpg"
+  },
+  {
+    "id": "p18",
+    "name": "spinach",
+    "category": "Vegetables",
+    "price": 8.0,
+    "image": "assets/images/spinach.jpg"
+  },
+  {
+    "id": "p19",
+    "name": "cream",
+    "category": "Dairy",
+    "price": 8.0,
+    "image": "assets/images/cream.jpg"
+  }
+]
